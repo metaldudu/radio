@@ -3,14 +3,14 @@ layout: post
 
 title:  "第一次播客"
 date:   2017-12-01
-categories: podcast
+categories: podcasts
 tags:
 - tagone
 - tagtwo
 - tagthree
 permalink: /01/
 image: /assets/posts/Awesome-Podcast-Art.jpg
-podcast_link: http://traffic.libsyn.com/podcast/filename.mp3
+podcast_link: http://audio.xmcdn.com/group21/M01/50/E4/wKgJLVgv8rzTS80-ADCtbriC2aM082.m4a
 podcast_file_size: 13.7 MB
 podcast_duration: "14:02"
 podcast_length: 13654375
