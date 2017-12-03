@@ -1,0 +1,30 @@
+# Site settings
+title: "LaoduPodcast"
+description: "Just a test"
+baseurl: "/podcast" # begin with /repo-name if use as project, else leave empty for gh-pages
+url: "" # default is empty
+author: "Lao Du"
+
+# Build settings
+kramdown:
+  input: GFM
+permalink: pretty
+
+# Third-party services
+# just leave empty to disable it
+google_analytics:
+disqus_shortname: metaldudu
+
+podcast_url: http://mrdu.me/podcasts
+podcast_album_art: /assets/base/Whaddya-Know-Joe-Album-Art.png
+podcast_title: LaoduPodcasts
+podcast_owner: Lao Du
+podcast_email: email@example.com
+podcast_category: Technology
+podcast_subcategory_one: Software How-To
+podcast_subcategory_two: Gadgets
+podcast_explicit: "no"
+podcast_author: Laodu
+podcast_description: xxxxxx
+podcast_summary: xxx2
+podcast_subtitle: xxx3
