@@ -15,16 +15,16 @@ permalink: pretty
 google_analytics:
 disqus_shortname: metaldudu
 
-podcast_url: http://mrdu.me/podcasts
+podcast_url: http://mrdu.me/radio
 podcast_album_art: /css/pod.jpg
-podcast_title: 老杜还在说
-podcast_owner: 老杜还在
+podcast_title: 1811电台
+podcast_owner: MetalDudu
 podcast_email: metaldudu@gmail.com
 podcast_category: Technology
 podcast_subcategory_one: Reading
 podcast_subcategory_two: Software
 podcast_explicit: "no"
-podcast_author: Metaldudu
-podcast_description: 一个人闲聊播客节目
-podcast_summary: 一个人闲聊播客节目
-podcast_subtitle: 一个人闲聊播客节目
+podcast_author: MetalDudu
+podcast_description: 闲聊节目，愿者上钩。这里是老杜的个人播客节目，不定期更新，主题大概包括阅读、生活以及让生活尽量好玩一点的内容。
+podcast_summary: 闲聊节目，愿者上钩。
+podcast_subtitle: 闲聊节目，愿者上钩。
