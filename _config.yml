@@ -3,7 +3,7 @@ title: "1811电台"
 description: "一个人闲聊播客节目"
 baseurl: "/radio" # begin with /repo-name if use as project, else leave empty for gh-pages
 url: "" # default is empty
-author: "Metaldudu"
+author: "MetalDudu"
 
 # Build settings
 kramdown:
