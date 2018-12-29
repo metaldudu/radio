@@ -12,8 +12,8 @@ permalink: pretty
 
 # Third-party services
 # just leave empty to disable it
-google_analytics:
-disqus_shortname: metaldudu
+google_analytics: metaldudu@gmail.com
+disqus_shortname: 
 
 podcast_url: http://mrdu.me/radio
 podcast_album_art: /css/pod.jpg
